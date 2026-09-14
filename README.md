@@ -7,8 +7,7 @@ Equipo 2
 //Suñiga Maciel Joule Alexander
 //Villa Olivarez Ariel
 //Nuñes Martinez Marco Antonio
-//Equipo 2
-//=============================
+
 
 ## Descripción
 Vistas en Windows Forms para nuestro sistema de préstamo de libros de biblioteca. Todo está en FrmPrincipal, con una sección por cada una de las 10 entidades (Usuario, Administrador, Autor, Categoria, Editorial, Libro, Ejemplar, Prestamo, Sancion y Pago). Cada sección tiene sus controles de captura, un botón para procesar los datos, y muestra el resultado junto con los métodos de negocio del modelo (edad calculada, antigüedad, penalización, días de retraso, etc.).
