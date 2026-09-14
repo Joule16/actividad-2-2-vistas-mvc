@@ -16,4 +16,4 @@ Vistas en Windows Forms para nuestro sistema de préstamo de libros de bibliotec
 Abre el `.sln` en Visual Studio y presiona F5. Se abre FrmPrincipal con todas las secciones disponibles.
 
 ## Manejo de errores
-Cada botón de proceso valida los datos con try/catch: captura ArgumentException (errores de validación del modelo), FormatException (si escriben texto donde va un número) y muestra el mensaje correspondiente en un MessageBox.
+Cada botón de proceso valida los datos, captura ArgumentException, FormatException y muestra el mensaje correspondiente en un MessageBox.
